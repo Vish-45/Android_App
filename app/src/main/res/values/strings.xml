@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+
+    <string name="app_name">Ghost_Sightings</string>
+
+    <!-- Activity Titles -->
+    <string formatted="false" name="storesDSItemFormActivity"></string>
+    <string formatted="false" name="ghostSightingsMain">Ghost_Sightings</string>
+    <string formatted="false" name="ghostSightingsActivity">Ghost Sightings</string>
+    <string formatted="false" name="reviewsActivity">Reviews</string>
+    <string formatted="false" name="rankingActivity">Ranking</string>
+</resources>
+
+

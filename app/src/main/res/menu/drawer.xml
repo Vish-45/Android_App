@@ -1,0 +1,10 @@
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+  <group android:checkableBehavior="single">
+          <item android:id="@+id/entry0" android:title="Ghost Sightings"/>
+        <item android:id="@+id/entry1" android:title="Reviews"/>
+        <item android:id="@+id/entry2" android:title="Ranking"/>
+  </group>
+</menu>
+
+
